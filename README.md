@@ -1,0 +1,1 @@
+This repository contains some data structures I've made so far for EECS 560, to be used for reference and use in future labs. None are generic, since the class has yet to require the use of anything besides positive integers.
